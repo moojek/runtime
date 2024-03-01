@@ -9,7 +9,7 @@ using Microsoft.Extensions.Primitives;
 
 namespace Microsoft.Extensions.Configuration
 {
-    /// <summary>
+    /// <summary> 
     /// The root node for a configuration.
     /// </summary>
     [DebuggerDisplay("{DebuggerToString(),nq}")]
