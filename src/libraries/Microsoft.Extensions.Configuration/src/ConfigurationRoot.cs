@@ -103,7 +103,7 @@ namespace Microsoft.Extensions.Configuration
             {
                 registration.Dispose();
             }
-
+ 
             // dispose providers
             foreach (IConfigurationProvider provider in _providers)
             {
